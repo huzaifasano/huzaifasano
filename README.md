@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzaifa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="500" src="https://gifdb.com/images/high/hackers-matrix-coding-4gtz6lwrja1y76g1.gif">
+<img align="right" alt="coding" width="500" src="https://i.gifer.com/T2lT.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifasano&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifasano" /> </p>
 
