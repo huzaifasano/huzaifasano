@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Huzaifa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif">
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifasano&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifasano" /> </p>
 
 - 🔭 I’m currently working on **frontend development**
